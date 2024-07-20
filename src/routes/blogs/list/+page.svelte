@@ -1,4 +1,6 @@
 <script>
+// @ts-nocheck
+
 // import Table from "../../../lib/table.svelte"
 import Table from "$lib/table.svelte";
 </script>
