@@ -1,8 +1,13 @@
 {
 	"/": [],
-	"/blogs": [],
-	"/blogs/list": [],
-	"/blogs/[slug]": [
-		"src/routes/blogs/[slug]/+page.server.js"
-	]
+	"/bounty": [
+		"src/routes/bounty/+page.server.ts"
+	],
+	"/cloud-wallet": [
+		"src/routes/cloud-wallet/+page.server.js"
+	],
+	"/profiles": [
+		"src/routes/profiles/+page.server.ts"
+	],
+	"/raw-wallet": []
 }
